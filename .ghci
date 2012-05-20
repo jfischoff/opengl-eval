@@ -1,0 +1,3 @@
+:set -i./src -i./tests
+:set -hide-package language-c
+:load Main
